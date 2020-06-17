@@ -1,11 +1,12 @@
 # File-Based-Management-GUI-Application-
-Project is Based on a Small Desktop GUI File Management System (Using Tkinter and PIL Module)
+
+## Project is Based on a Small Desktop GUI File Management System (Using Tkinter and PIL Module)
 
 The Software is use to handle files in a system with a simpler manner and dispaly so that it could be user friendly
 
 ===============================Intallation Module===========================
 
-=> PIL :- pip install pillow
+### => PIL :- pip install pillow
 
 =============================== Images ===================================
 
